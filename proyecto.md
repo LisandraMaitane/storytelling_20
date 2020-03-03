@@ -14,14 +14,14 @@ Proyecto (código):
 
 ![](https://github.com/mgea/storytelling/blob/master/img-nobody.png)
 
-Nombre: 
+Nombre: Lisandra Maitane
 
 
 ### Historia
-
+Joven teleoperadora muy maniática que cambia su vida un día al salir de fiesta.
 
 ### Contexto
-
+Centro de una gran ciudad, en la actualidad.
 
 ### Conflicto 
 

@@ -24,7 +24,7 @@ Joven teleoperadora muy maniática que cambia su vida un día al salir de fiesta
 Centro de una gran ciudad, en la actualidad.
 
 ### Conflicto 
-
+Historia N - Nómadas y otras tribus urbanas
 
 - ChatBot: (enlace) 
 
@@ -42,9 +42,9 @@ Incluir lista de personas del grupo
 Se puede añadir enlace a página personal de github o lo que se quiera...(optativo)
 -->
 
-- :man: minombre
-- :woman: minombre
-- :woman: minombre 
+- :woman: Anaís Gallardo
+- :woman: Sofía Rosales
+- :woman: Silvia Valverde
 
 <!---
 Lista completa de emojis de markDown - https://gist.github.com/rxaviers/7360908) 

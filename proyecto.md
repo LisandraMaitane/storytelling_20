@@ -25,6 +25,7 @@ Centro de una gran ciudad, en la actualidad.
 
 ### Conflicto 
 Historia N - Nómadas y otras tribus urbanas
+Lisandra intenr¡tará mantener su vida en orden y mantener sus manías, sin embargo está avocada a cambios en su vida y su manera de ser.
 
 - ChatBot: (enlace) 
 

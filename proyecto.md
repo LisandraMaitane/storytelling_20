@@ -11,7 +11,7 @@ Proyecto (código):
 
 
 ### Personaje
-myAvatar (1).png
+
 
 
 Nombre: Lisandra Maitane

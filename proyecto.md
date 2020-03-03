@@ -12,7 +12,7 @@ Proyecto (código):
 
 ### Personaje
 
-![](https://github.com/mgea/storytelling/blob/master/img-nobody.png)
+
 
 Nombre: Lisandra Maitane
 
